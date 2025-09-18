@@ -1,4 +1,17 @@
 {
-  "nodes": [],
-  "edges": []
+	"nodes":[
+		{"id":"92b2ae4632461dad","x":-290,"y":-840,"width":400,"height":400,"type":"file","file":"StarInAJarSonoluminescense/StarInAJar.jpeg"},
+		{"id":"f30dd5c876fad6ea","x":-140,"y":-320,"width":100,"height":400,"type":"file","file":"RanqueHilschVortexTube/RanqueHilschVortexTube.jpeg"},
+		{"id":"2065b45360d2e028","x":-290,"y":200,"width":400,"height":374,"type":"file","file":"PlasmoidUnificationModel/PlasmoidUnificationModel.jpeg"},
+		{"id":"e18e3eb000b0e5cf","x":220,"y":-714,"width":250,"height":148,"type":"text","text":"Sonoluminescence creates light through periodically imploding bubbles trapped in sonic standing wave patterns"},
+		{"id":"a3abf8a87c1ef869","x":220,"y":-184,"width":250,"height":128,"type":"text","text":"Ranque Hilsch Vortex Tube creates two opposing, nested vortices, one hot, one cold"},
+		{"id":"0c9c989c338cf190","x":220,"y":316,"width":250,"height":143,"type":"text","text":"Through the Plasmoid Unification model the correct ratios and frequencies are determined to put these phenomena together in a coherent way"}
+	],
+	"edges":[
+		{"id":"b9d5be4b22e34755","fromNode":"92b2ae4632461dad","fromSide":"bottom","toNode":"f30dd5c876fad6ea","toSide":"top"},
+		{"id":"2530f0637f766968","fromNode":"f30dd5c876fad6ea","fromSide":"bottom","toNode":"2065b45360d2e028","toSide":"top"},
+		{"id":"6b721a5685a40bdf","fromNode":"92b2ae4632461dad","fromSide":"right","toNode":"e18e3eb000b0e5cf","toSide":"left","toEnd":"none"},
+		{"id":"97f9d495ee2a3c59","fromNode":"f30dd5c876fad6ea","fromSide":"right","toNode":"a3abf8a87c1ef869","toSide":"left","toEnd":"none"},
+		{"id":"e9ab37aec130855c","fromNode":"2065b45360d2e028","fromSide":"right","toNode":"0c9c989c338cf190","toSide":"left","toEnd":"none"}
+	]
 }
