@@ -1,146 +1,23 @@
 {
-  "nodes": [
-    {
-      "id": "166d8fd6537bb944",
-      "x": -360,
-      "y": -480,
-      "width": 400,
-      "height": 400,
-      "type": "file",
-      "file": "ThunderstormGenerator/StarInAJarSonoluminescense/StarInAJar.jpeg"
-    },
-    {
-      "id": "c8fd346b188a71a2",
-      "x": -210,
-      "y": 40,
-      "width": 100,
-      "height": 400,
-      "type": "file",
-      "file": "ThunderstormGenerator/RanqueHilschVortexTube/RanqueHilschVortexTube.jpeg"
-    },
-    {
-      "id": "43a82e79597a47c7",
-      "x": -360,
-      "y": 520,
-      "width": 400,
-      "height": 374,
-      "type": "file",
-      "file": "ThunderstormGenerator/PlasmoidUnificationModel/PlasmoidUnificationModel.jpeg"
-    },
-    {
-      "id": "a16c07d0dd212f1b",
-      "x": -360,
-      "y": 1240,
-      "width": 400,
-      "height": 225,
-      "type": "file",
-      "file": "ThunderstormGenerator/FullSetup.png"
-    },
-    {
-      "id": "701d35703e5c1c97",
-      "type": "text",
-      "text": "Sonoluminescence creates light through periodically imploding bubbles trapped in sonic standing wave patterns",
-      "x": 220,
-      "y": -354,
-      "width": 250,
-      "height": 148
-    },
-    {
-      "id": "31ab1050ecb26754",
-      "type": "text",
-      "text": "Ranque Hilsch Vortex Tube creates two opposing, nested vortices, one hot, one cold",
-      "x": 220,
-      "y": 176,
-      "width": 250,
-      "height": 128
-    },
-    {
-      "id": "30f613342176841c",
-      "type": "text",
-      "text": "Through the Plasmoid Unification model the correct ratios and frequencies are determined to put these phenomena together in a coherent way",
-      "x": 220,
-      "y": 636,
-      "width": 250,
-      "height": 143
-    },
-    {
-      "id": "12b22b215e721045",
-      "type": "text",
-      "text": "putting it all together we get the full setup",
-      "x": -285,
-      "y": 1060,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "71dfa0b22db7a501",
-      "x": -360,
-      "y": 1680,
-      "width": 400,
-      "height": 400,
-      "type": "file",
-      "file": "ThunderstormGenerator/Thunderstorm-Generator-UPDATED-COMPLETE-DIY-BUILD-/thunderstorm-generator-updated-complete-diy-build-guide-2025-malcolm-bendall-s-plasmoid-tech.link"
-    }
-  ],
-  "edges": [
-    {
-      "id": "72c71c5cd40b14f0",
-      "fromNode": "166d8fd6537bb944",
-      "fromSide": "bottom",
-      "toNode": "c8fd346b188a71a2",
-      "toSide": "top"
-    },
-    {
-      "id": "ed5d844dc239e986",
-      "fromNode": "c8fd346b188a71a2",
-      "fromSide": "bottom",
-      "toNode": "43a82e79597a47c7",
-      "toSide": "top"
-    },
-    {
-      "id": "0adaf6cec445aacf",
-      "fromNode": "43a82e79597a47c7",
-      "fromSide": "bottom",
-      "toNode": "12b22b215e721045",
-      "toSide": "top"
-    },
-    {
-      "id": "4549ca9143971cc4",
-      "fromNode": "12b22b215e721045",
-      "fromSide": "bottom",
-      "toNode": "a16c07d0dd212f1b",
-      "toSide": "top"
-    },
-    {
-      "id": "4f51a2aab4f74f53",
-      "fromNode": "43a82e79597a47c7",
-      "fromSide": "right",
-      "toNode": "30f613342176841c",
-      "toSide": "left",
-      "toEnd": "none"
-    },
-    {
-      "id": "76322d3a485e676d",
-      "fromNode": "c8fd346b188a71a2",
-      "fromSide": "right",
-      "toNode": "31ab1050ecb26754",
-      "toSide": "left",
-      "toEnd": "none"
-    },
-    {
-      "id": "785fe267d574bf51",
-      "fromNode": "166d8fd6537bb944",
-      "fromSide": "right",
-      "toNode": "701d35703e5c1c97",
-      "toSide": "left",
-      "toEnd": "none"
-    },
-    {
-      "id": "031b5a1604714653",
-      "fromNode": "a16c07d0dd212f1b",
-      "fromSide": "bottom",
-      "toNode": "71dfa0b22db7a501",
-      "toSide": "top"
-    }
-  ]
+	"nodes":[
+		{"id":"166d8fd6537bb944","type":"file","file":"ThunderstormGenerator/StarInAJarSonoluminescense/StarInAJar.jpeg","x":-360,"y":-480,"width":400,"height":400},
+		{"id":"c8fd346b188a71a2","type":"file","file":"ThunderstormGenerator/RanqueHilschVortexTube/RanqueHilschVortexTube.jpeg","x":-210,"y":40,"width":100,"height":400},
+		{"id":"43a82e79597a47c7","type":"file","file":"ThunderstormGenerator/PlasmoidUnificationModel/PlasmoidUnificationModel.jpeg","x":-360,"y":520,"width":400,"height":374},
+		{"id":"a16c07d0dd212f1b","type":"file","file":"ThunderstormGenerator/FullSetup.png","x":-360,"y":1240,"width":400,"height":225},
+		{"id":"701d35703e5c1c97","type":"text","text":"Sonoluminescence creates light through periodically imploding bubbles trapped in sonic standing wave patterns","x":220,"y":-354,"width":250,"height":148},
+		{"id":"31ab1050ecb26754","type":"text","text":"Ranque Hilsch Vortex Tube creates two opposing, nested vortices, one hot, one cold","x":220,"y":176,"width":250,"height":128},
+		{"id":"30f613342176841c","type":"text","text":"Through the Plasmoid Unification model the correct ratios and frequencies are determined to put these phenomena together in a coherent way","x":220,"y":636,"width":250,"height":143},
+		{"id":"12b22b215e721045","type":"text","text":"putting it all together we get the full setup","x":-285,"y":1060,"width":250,"height":60},
+		{"id":"71dfa0b22db7a501","type":"file","file":"ThunderstormGenerator/Thunderstorm-Generator-UPDATED-COMPLETE-DIY-BUILD-/thunderstorm-generator-updated-complete-diy-build-guide-2025-malcolm-bendall-s-plasmoid-tech.link","x":-360,"y":1680,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"72c71c5cd40b14f0","fromNode":"166d8fd6537bb944","fromSide":"bottom","toNode":"c8fd346b188a71a2","toSide":"top"},
+		{"id":"ed5d844dc239e986","fromNode":"c8fd346b188a71a2","fromSide":"bottom","toNode":"43a82e79597a47c7","toSide":"top"},
+		{"id":"0adaf6cec445aacf","fromNode":"43a82e79597a47c7","fromSide":"bottom","toNode":"12b22b215e721045","toSide":"top"},
+		{"id":"4549ca9143971cc4","fromNode":"12b22b215e721045","fromSide":"bottom","toNode":"a16c07d0dd212f1b","toSide":"top"},
+		{"id":"4f51a2aab4f74f53","fromNode":"43a82e79597a47c7","fromSide":"right","toNode":"30f613342176841c","toSide":"left","toEnd":"none"},
+		{"id":"76322d3a485e676d","fromNode":"c8fd346b188a71a2","fromSide":"right","toNode":"31ab1050ecb26754","toSide":"left","toEnd":"none"},
+		{"id":"785fe267d574bf51","fromNode":"166d8fd6537bb944","fromSide":"right","toNode":"701d35703e5c1c97","toSide":"left","toEnd":"none"},
+		{"id":"031b5a1604714653","fromNode":"a16c07d0dd212f1b","fromSide":"bottom","toNode":"71dfa0b22db7a501","toSide":"top"}
+	]
 }
