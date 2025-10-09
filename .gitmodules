@@ -1,12 +1,12 @@
 [submodule "StarInAJarSonoluminescense"]
 	path = StarInAJarSonoluminescense
-	url = /Users/davidrug/DemoVault/StarInAJarSonoluminescense
+	url = https://github.com/ProjectLiminality/starinajarsonoluminescense.git
 [submodule "RanqueHilschVortexTube"]
 	path = RanqueHilschVortexTube
-	url = /Users/davidrug/DemoVault/RanqueHilschVortexTube
+	url = https://github.com/ProjectLiminality/ranquehilschvortextube.git
 [submodule "PlasmoidUnificationModel"]
 	path = PlasmoidUnificationModel
-	url = /Users/davidrug/DemoVault/PlasmoidUnificationModel
+	url = https://github.com/ProjectLiminality/plasmoidunificationmodel.git
 [submodule "Thunderstorm-Generator-UPDATED-COMPLETE-DIY-BUILD-"]
 	path = Thunderstorm-Generator-UPDATED-COMPLETE-DIY-BUILD-
-	url = /Users/davidrug/DemoVault/Thunderstorm-Generator-UPDATED-COMPLETE-DIY-BUILD-
+	url = https://github.com/ProjectLiminality/thunderstorm-generator-updated-complete-diy-build.git
