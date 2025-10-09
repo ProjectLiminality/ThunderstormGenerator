@@ -8,5 +8,5 @@
 	path = PlasmoidUnificationModel
 	url = https://github.com/ProjectLiminality/plasmoidunificationmodel.git
 [submodule "Thunderstorm-Generator-UPDATED-COMPLETE-DIY-BUILD-"]
-	path = ThunderstormGeneratorUpdatedCompleteDiyBuild
+	path = ThunderstormGeneratorUPDATEDCOMPLETEDIYBUILD
 	url = https://github.com/ProjectLiminality/thunderstorm-generator-updated-complete-diy-build.git
