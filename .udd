@@ -4,8 +4,12 @@
   "type": "dream",
   "dreamTalk": "ThunderstormGenerator.png",
   "liminalWebRelationships": [
-    "a4c65d12-e473-418c-994f-3bd735d434c4"
+    "8803c576-5b33-4967-abdd-463e2eda7fa0",
+    "e8e45d3b-e22e-4c8f-b35a-8b1e2f10b69c"
   ],
   "submodules": [],
-  "supermodules": []
+  "supermodules": [],
+  "radicleId": "rad:z32KcCXgBC7ijWnQA6cHU5Frm9QwW",
+  "githubRepoUrl": "https://github.com/ProjectLiminality/ThunderstormGenerator",
+  "githubPagesUrl": "https://ProjectLiminality.github.io/ThunderstormGenerator"
 }
